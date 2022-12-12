@@ -1,7 +1,7 @@
 {
 	"Recipes":
 	[
-		{"RecipeName":"Chicken Parmesan","RecipeImage":"https://raw.githubusercontent.com/vksam123/SamsIT315RecipeProject/master/ChickenParm.jpg","PrepTime":"15","CookTime":"20","TotalTime":"35","Servings":"4","ServingTime":"Dinner","Ingredients":"4 Chicken Breast Halves, Salt, Ground Pepper, 2 Large Eggs, 1 Cup Bread Crumbs, ¾ Grated Parmesan Cheese, 2 Tablespoons Flour, ½ Cup Olive Oil, ½ Cup Tomato Sauce, ¼ Cup Mozzarella","Directions":"1.Apple Sauce\n2.Grapes\n3.Bannana"}
+		{"RecipeName":"Chicken Parmesan","RecipeImage":"https://raw.githubusercontent.com/vksam123/SamsIT315RecipeProject/master/ChickenParm.jpg","PrepTime":"15","CookTime":"20","TotalTime":"35","Servings":"4","ServingTime":"Dinner","Ingredients":"4 Chicken Breast Halves, Salt, Ground Pepper, 2 Large Eggs, 1 Cup Bread Crumbs, ¾ Grated Parmesan Cheese, 2 Tablespoons Flour, ½ Cup Olive Oil, ½ Cup Tomato Sauce, ¼ Cup Mozzarella","Directions":"1.Apple Sauce2.Grapes3.Bannana"}
 	],
 	"Status":"OK"
 }
